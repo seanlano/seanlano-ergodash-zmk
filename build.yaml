@@ -20,6 +20,6 @@
 ---
 include:
   - board: adafruit_kb2040
-    shield: ergodash_left
+    shield: ergodash_wired_left
   - board: adafruit_kb2040
-    shield: ergodash_right
+    shield: ergodash_wired_right
