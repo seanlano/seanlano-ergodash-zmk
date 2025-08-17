@@ -8,6 +8,10 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 
+&pro_micro_serial {
+    status = "okay";
+};
+
 #define DEFAULT 0
 #define LOWER   1
 #define RAISE   2
